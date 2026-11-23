@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m ecommerce_team_config .)",
+      "Bash(tee validator_output.txt)"
+    ]
+  }
+}
